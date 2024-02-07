@@ -1,3 +1,3 @@
 # resume
 My Resume 
-Author - Pratyush
+Author - Pratyush Bhardwaj
